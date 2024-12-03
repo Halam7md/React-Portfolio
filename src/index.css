@@ -1,0 +1,71 @@
+html,
+body {
+  overflow-x: hidden; /* Prevents horizontal scroll temporarily */
+  font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.user-pic {
+  width: 200px;
+  height: 200px;
+}
+
+.text-babyblue,
+.bg-babyblue {
+  color: #2c98f0;
+}
+.quicksand300 {
+  font-weight: 300;
+}
+.quicksand400 {
+  font-weight: 400;
+  font-size: 12px;
+}
+.quicksand500 {
+  font-weight: 500;
+  font-size: 15px;
+}
+.quicksand600 {
+  font-weight: 600;
+  font-size: 13px;
+}
+.quicksand700 {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.Playfair400{
+    font-weight: 400;
+}
+.Playfair500{
+    font-weight: 500;
+}
+.Playfair600{
+    font-weight: 600;
+}
+.Playfair700{
+    font-weight: 700;
+    font-size: 18px;
+}
+.Playfair800{
+    font-weight: 800;
+}
+.Playfair900{
+    font-weight: 900;
+}
+
+.fontsize22 {font-size: 22px;}
+
+.fontsize60{font-size: 60px;}
